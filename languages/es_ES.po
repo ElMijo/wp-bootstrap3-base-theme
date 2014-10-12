@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Geotial 2014 v1.0\n"
+"POT-Creation-Date: 2014-10-12 16:17-0400\n"
+"PO-Revision-Date: 2014-10-12 16:18-0400\n"
+"Last-Translator: Jerry Anselmi <jerry.anselmi@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: /var/www/geotial/wp-content/themes/geotial-2014\n"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/functions.php:148
+msgid "Read More"
+msgstr "Leer más"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/functions.php:176
+msgid "Primary Sidebar"
+msgstr "Barra Lateral Principal"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/functions.php:178
+msgid "Main sidebar that appears on the left."
+msgstr "Barra lateral principal que aparece a la izquierda."
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/functions.php:185
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/functions.php:291
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:31
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:14
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:32
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios Anteriores"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:15
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos Comentarios &rarr;"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/comments.php:38
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/search.php:2
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/tag.php:3
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivo de la etiqueta: %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-audio.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-quote.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-aside.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format.php:14
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-image.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-gallery.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-link.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-video.php:13
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-audio.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-quote.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-aside.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format.php:14
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-image.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-gallery.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-link.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-video.php:13
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-audio.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-quote.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-aside.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format.php:14
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-image.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-gallery.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-link.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-video.php:13
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-audio.php:16
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-quote.php:16
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-aside.php:16
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-image.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-image.php:34
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format.php:17
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-image.php:16
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-gallery.php:16
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-link.php:16
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-page.php:7
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-page.php:18
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-video.php:16
+msgid "Edit"
+msgstr "Editar"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-audio.php:22
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-quote.php:22
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-aside.php:22
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-image.php:29
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format.php:26
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-image.php:22
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-gallery.php:22
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-link.php:22
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-page.php:13
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-format-video.php:22
+msgid "Pages:"
+msgstr "Paginas:"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/nav-image-post.php:3
+msgid "Previous Image"
+msgstr "Imagen Anterior"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/nav-image-post.php:4
+msgid "Next Image"
+msgstr "Siguiente imagen"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-category.php:2
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archivo de la categoría: %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/seo-admin-options.php:9
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/seo-admin-options.php:12
+msgid "Exclusive right of an author"
+msgstr "Derecho exclusivo de un autor"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/seo-admin-options.php:17
+msgid "Keywords"
+msgstr "Palabras claves"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/seo-admin-options.php:20
+msgid "Add keywords to your website"
+msgstr "Agregue las palabras claves para su sitio web"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-author.php:3
+#, php-format
+msgid "All posts by %s"
+msgstr "Todas las publicaciones de %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:2
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:6
+msgid "excerpt"
+msgstr "Extracto"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:7
+msgid "Set the number of words you want for different sizes of extracts"
+msgstr ""
+"Defina el número de palabras que desea para los diferentes tamaños de "
+"extractos"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:12
+msgid "Short"
+msgstr "Corto"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:15
+msgid "Short excerpt size"
+msgstr "Tamaño extracto corto"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:20
+msgid "Regular"
+msgstr "Regular"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:23
+msgid "Regular excerpt size"
+msgstr "Tamaño extracto regular"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:27
+msgid "Long"
+msgstr "Largo"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/theme-admin-options.php:30
+msgid "Long excerpt size"
+msgstr "Tamaño extracto largo"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-none.php:1
+msgid "Nothing Found"
+msgstr "No se Encontró Nada"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-none.php:5
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para realizar tu primera publicación? <a href=\"%1$s\">Comience aquí</"
+"a>."
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-none.php:9
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con los términos de búsqueda. Por favor, "
+"inténtelo de nuevo con algunas palabras clave diferentes."
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que busca. Puede que el buscador lo pueda "
+"ayudar."
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-archive.php:4
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-archive.php:6
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-archive.php:8
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: /var/www/geotial/wp-content/themes/geotial-2014/templates/content-archive.php:10
+msgid "Archives"
+msgstr "Archivos"

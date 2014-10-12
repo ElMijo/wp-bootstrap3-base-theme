@@ -1,0 +1,65 @@
+/*
+Theme Name: Geotial 2014
+Theme URI: http://www.geotial.com.ve/
+Description: Plantilla desarrollada para la empresa <a href="http://www.geotial.com.ve/">Geotial Group c.a.</a>.
+Author: Gabriela Vanessa Jerry Anselmi
+Author URI: http://elmijo.net.ve/ https://plus.google.com/u/0/114077155105083041610?prsrc=4
+Version: 1.0
+Tags: responsive, bootstrap
+
+License: MIT
+License URI: http://opensource.org/licenses/MIT
+
+*/
+
+html,body,#pagina{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	font-size: 18px;
+    background-color: #f3f3f3;
+    /*font-family: "Open Sans",sans-serif;*/
+    font-size: 13px;
+    line-height: 1.4em;
+    color: #444;
+}
+header{}
+#pagina
+{
+    padding-top: 50px;
+}
+.backToTop
+{
+    bottom: 60px;
+    color: #111111;
+    font-size: 45px;
+    height: 45px;
+    line-height: 40px;
+    position: fixed;
+    right: 20px;
+    text-indent: -7px;
+    width: 43px;
+    z-index: 100;
+    text-shadow: 0 0 5px #9f9f9f;
+    display: none;
+}
+.backToTop:hover,
+.backToTop:focus,
+.backToTop:active
+{
+    color: #111111;
+}
+.brand{
+	color: #333333;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    padding: 12px 12px 0 12px;	
+}
+.brand:hover,
+.brand:active,
+.brand:focus{
+	color: #C2C2C2;
+	text-decoration: none;
+}
