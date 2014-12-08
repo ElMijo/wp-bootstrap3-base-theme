@@ -24,6 +24,8 @@ define("SITEKEYW", esc_attr(get_option('keywords_site')));
 
 /*---------------Fin Constantes-----------------*/
 
+ define("WPST_SETTINGS_PATH",THEMEDIR."/settings");
+if ( is_admin() ){ require_once( INCDIR.'/wp-settings-theme/index.php' );}
 
 /*---------------Funciones base-----------------*/
 
